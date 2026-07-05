@@ -31,8 +31,7 @@ I am a 16-year-old developer focused on building efficient and structured soluti
 
 ---
 *“Focusing on building long-term value through clean code and strategic execution.”*
-<p align="center"><img src="https://komarev.com?username=gfranquiz-dev&color=green&style=flat-square" alt="Visitas al perfil" /></p>
-
+![Visitas al perfil](https://komarev.com/ghvc/?username=gfranquiz-dev&color=green&style=flat-square)
 
 
 
