@@ -27,7 +27,7 @@ I am a 16-year-old developer focused on building efficient and structured soluti
     - Professional video editing, vector design.
 
 ## Featured Projects
-- **[Guess It! AI Game]()**: A terminal-based game integrated with the OpenAI GPT API, featuring dynamic AI interactions, environment variable protection, and clean control flow logic. 
+- **[Guess It! AI Game](https://codeinplace.stanford.edu/cip6/share/qkTeTBAEX06UNAnBiaE2)**: A terminal-based game integrated with the OpenAI GPT API, featuring dynamic AI interactions, environment variable protection, and clean control flow logic. 
 
 ---
 *“Focusing on building long-term value through clean code and strategic execution.”*
