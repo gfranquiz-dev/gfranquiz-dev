@@ -1,3 +1,7 @@
+![Gabriel Banner](gabrielbanner.png)
+
+# Hi, I'm Gabriel Franquiz
+
 I am a 16-year-old developer focused on building efficient and structured solutions. I combine a strategic and analytical mindset with practical programming skills to solve real-world problems and lead work teams. 
 
 ## 📍 About Me
