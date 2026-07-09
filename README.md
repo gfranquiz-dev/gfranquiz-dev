@@ -28,7 +28,7 @@ I am a 16-year-old developer focused on building efficient and structured soluti
 </p>
 
 - **Others:**
-  - Vectorpea, Antigravity (IDE), Excel/Google Sheets, Word/Google Docs, PowerPoint/Google Slides, Google Forms, Google Classroom, 
+  - Vectorpea, Antigravity (IDE), Excel/Google Sheets, Word/Google Docs, PowerPoint/Google Slides, Google Forms, Google Classroom.
 
 - **Specialties:** 
   - Automation scripts, community architecture (Advanced Discord Server optimization).
