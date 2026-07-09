@@ -11,33 +11,39 @@ I am a 16-year-old developer focused on building efficient and structured soluti
 - Passionate about backend development, automation, and tech architecture; also interested in game development.
 - I'm deeply interested in the financial world as a stock and ETFs trader/investor.
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=gfranquiz-dev&show_icons=true&theme=tokyonight&count_private=true" alt="Gabriel's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gfranquiz-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+## 📌 Skills
+### Core & Coding:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" alt="Python" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" alt="HTML5" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" alt="Linux" /> <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" alt="Ubuntu" /> <img src="https://cdn.simpleicons.org/git/F05032" width="40" alt="Git" /> <img src="https://cdn.simpleicons.org/claude/D97752" width="40" alt="Claude" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" alt="Figma" /> <img src="https://cdn.simpleicons.org/markdown/FFFFFF" width="40" alt="Markdown" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="40" alt="Bash" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" width="40" alt="zsh"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" alt="VSCode" />
 </p>
 
-## 📌 Skills
-- **Programming Languages:** 
-    - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) (Core logic, control flow, data structures).
-    - Learning: HTML, C++ and JavaScript.
-- **Tools & Ecosystem:** 
-    - **About coding:** ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-    - **Mastered tools:** 
-        - **Vector Design:** Vectorpea, Canva, Markdown, Figma (Only Figma Slides).
-        - **Video Editing:** Kdenlive (Advanced), CapCut.
-        - **Others:** 
-            - **Productivity:** Excel/Google Sheets, Word/Google Docs, PowerPoint/Google Slides, Google Forms, Google Classroom, Notion.
-            - **Now learning:** Figma (Vector design and frontend), Godot Engine (Game development), Antigravity (IDE), Claude (skills).
-    
+### Multimedia & Productivity:
+<p align="center">
+<img src="https://cdn.simpleicons.org/kdenlive/2299EE" width="40" alt="Kdenlive" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" width="40" alt="Canva" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="40" alt="Blender" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" alt="Notion" /> <img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /> <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" alt="Gmail" /> <img src="https://cdn.simpleicons.org/obsstudio/FFFFFF" width="40" alt="OBS-Studio" />
+</p>
+
+### Learning:
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="40" alt="Unity" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width="40" alt="Godot" />
+</p>
+
+- **Others:**
+  - Vectorpea, Antigravity (IDE), Excel/Google Sheets, Word/Google Docs, PowerPoint/Google Slides, Google Forms, Google Classroom, 
+
 - **Specialties:** 
-    - Automation scripts, community architecture (Advanced Discord Server optimization).
-    - Professional video editing, vector design.
+  - Automation scripts, community architecture (Advanced Discord Server optimization).
+  - Professional video editing, vector design.
+  - Indie game development.
 
 ## 🔍 Featured Projects
-- **[Guess It! AI Game](https://codeinplace.stanford.edu/cip6/share/qkTeTBAEX06UNAnBiaE2)**: A terminal-based game integrated with the OpenAI GPT API, featuring dynamic AI interactions, environment variable protection, and clean control flow logic. 
+- **[Guess It! AI Game](https://codeinplace.stanford.edu/cip6/share/qkTeTBAEX06UNAnBiaE2)**: A terminal-based game integrated with the OpenAI GPT API, featuring dynamic AI interactions, environment variable protection, and clean control flow logic.
+
+### 📊 My GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
+![](https://streak-stats.demolab.com/?user=gfranquiz-dev&theme=tokyonight&hide_border=false)<br/>
+<p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
 
 ---
 *“Focusing on building long-term value through clean code and strategic execution.”*
-<p align="center"><img src="https://komarev.com?username=gfranquiz-dev&color=green&style=flat-square" alt="Visitas al perfil" /></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=gfranquiz-dev&color=green&style=flat-square" alt="Visitas al perfil" /></p>
 
