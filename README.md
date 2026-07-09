@@ -39,9 +39,11 @@ I am a 16-year-old developer focused on building efficient and structured soluti
 - **[Guess It! AI Game](https://codeinplace.stanford.edu/cip6/share/qkTeTBAEX06UNAnBiaE2)**: A terminal-based game integrated with the OpenAI GPT API, featuring dynamic AI interactions, environment variable protection, and clean control flow logic.
 
 ### 📊 My GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=gfranquiz-dev&theme=tokyonight&hide_border=false)<br/>
-<p align="center"><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" /> <br/>
+  <img src="https://streak-stats.demolab.com/?user=gfranquiz-dev&theme=tokyonight&hide_border=false" /> <br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gfranquiz-dev&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 
 ---
 *“Focusing on building long-term value through clean code and strategic execution.”*
